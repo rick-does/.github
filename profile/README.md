@@ -10,6 +10,9 @@ I document APIs, SDKs, and CLIs. I write scripts that test and exercise product 
 ## Projects
 
 - **[md-tree](https://github.com/rick-does/md-tree)** — A graphical markdown hierarchy editor that eliminates hand-editing YAML nav files. Built with FastAPI and React.
+- **[docusaurus-sidebar-editor](https://github.com/rick-does/docusaurus-sidebar-editor)** — A Docusaurus plugin that
+  replaces hand-editing `sidebars.js` with a visual drag-and-drop hierarchy editor. Published on npm as
+  [`docusaurus-plugin-sidebar-editor`](https://www.npmjs.com/package/docusaurus-plugin-sidebar-editor).
 - **[DevEx Starter Template](https://github.com/rick-does/DevEx-Starter-Template)** — A template for building DevEx-focused projects from scratch, with documentation and a live API endpoint.
 ---
 ## Connect
