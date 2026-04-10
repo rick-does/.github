@@ -8,7 +8,7 @@ I document APIs, SDKs, and CLIs. I write scripts that test and exercise product 
 
 ---
 ## Projects
-
+- **[whereis-my-command](https://github.com/rick-does/whereis-my-command)** — Natural language search across 7,000+ CLI command docs. Describe what you want to do; get the command. Built with FastAPI, Chroma, and Gemini.
 - **[md-tree](https://github.com/rick-does/md-tree)** — A graphical markdown hierarchy editor that eliminates hand-editing YAML nav files. Built with FastAPI and React.
 - **[docusaurus-sidebar-editor](https://github.com/rick-does/docusaurus-sidebar-editor)** — A Docusaurus plugin that
   replaces hand-editing `sidebars.js` with a visual drag-and-drop hierarchy editor. Published on npm as
