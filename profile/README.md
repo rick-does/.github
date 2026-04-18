@@ -10,6 +10,7 @@ I document APIs, SDKs, and CLIs. I write scripts that test and exercise product 
 ## Projects
 
 - **[JSON's Razor](https://github.com/rick-does/json-razor)** — Collapses repeated structures in JSON, YAML, and NDJSON so the schema is easier to read.
+- **[Claude Code Chat Browser](https://github.com/rick-does/claude-code-chat-browser)** — Desktop app for browsing and searching your Claude Code chat history. Full-text search, syntax-highlighted transcripts, and copy-to-clipboard. Fully local, no backend.
 - **[PiTH](https://github.com/rick-does/pith)** — Full-featured markdown workspace: visual hierarchy editor, live preview,
   full-text search, frontmatter management, and prose analysis. Fully local, no hosted backend.
 - **[pith-cli](https://github.com/rick-does/pith-cli)** — CLI prose analysis for developers and technical writers. Analyzes markdown and PDFs for structure, readability, and style issues. Fully local, no backend.
