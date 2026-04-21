@@ -14,7 +14,6 @@ I document APIs, SDKs, and CLIs. I write scripts that test and exercise product 
 - **[PiTH](https://github.com/rick-does/pith)** — Full-featured markdown workspace: visual hierarchy editor, live preview,
   full-text search, frontmatter management, and prose analysis. Fully local, no hosted backend.
 - **[pith-cli](https://github.com/rick-does/pith-cli)** — CLI prose analysis for developers and technical writers. Analyzes markdown and PDFs for structure, readability, and style issues. Fully local, no backend.
-- **[.mdTree](https://github.com/rick-does/md-tree)** — A graphical markdown hierarchy editor that eliminates hand-editing YAML nav files. (Being ported as the UI for the PiTH project.)
 - **[whereis \<my-command\>](https://github.com/rick-does/whereis-my-command)** — Natural language search across 7,000+ CLI command docs. Describe what you want to do; get the command. Built with FastAPI, Chroma, and Gemini.
 - **[docusaurus-sidebar-editor](https://github.com/rick-does/docusaurus-sidebar-editor)** — A Docusaurus plugin that replaces hand-editing `sidebars.js` with a visual drag-and-drop hierarchy editor. Published on npm as [`docusaurus-plugin-sidebar-editor`](https://www.npmjs.com/package/docusaurus-plugin-sidebar-editor).
 - **[DevEx Starter Template](https://github.com/rick-does/DevEx-Starter-Template)** — A template for building DevEx-focused projects from scratch, with documentation and a live API endpoint.
